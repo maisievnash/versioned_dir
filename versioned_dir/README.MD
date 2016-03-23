@@ -1,4 +1,7 @@
-# Hello World
+# Hello GitHub
+
+This is	a README.MD file that will be used to describe this
+repository on GitHub 
 
 This is a text file that we are going to add to Git.
 
